@@ -136,6 +136,7 @@ em {
 /* NAVBAR */
 
 .navbar {
+    position: fixed;
     height: 84px;
     background: rgba(245, 241, 234, 0.96);
     border-bottom: 1px solid rgba(0, 0, 0, 0.07);
